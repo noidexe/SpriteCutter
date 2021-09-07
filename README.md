@@ -1,6 +1,6 @@
 # Sprite Cutter
 
-This is a tool to manually create .atlastex texures from a single atlas/spriteshit texture
+This is a tool to manually create .atlastex texures from a single atlas/spritesheet texture
 
 ## How To Use
 
