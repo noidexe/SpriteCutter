@@ -1,4 +1,4 @@
 extends Node
 class_name AtlasScene
 
-export(String, DIR) var destination_path
+@export_dir var destination_path : String
